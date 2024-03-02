@@ -1,8 +1,8 @@
 // 1 Assignment (done)
 // Installed Node.js, TypeScript and VS Code
 
-import { equal } from "assert";
-import { abort } from "process";
+// import { equal } from "assert";
+// import { abort } from "process";
 
 // 2 Assignment (done)
 // let personName: string = "Ali";
