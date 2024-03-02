@@ -1,10 +1,11 @@
 "use strict";
 // 1 Assignment (done)
 // Installed Node.js, TypeScript and VS Code
-Object.defineProperty(exports, "__esModule", { value: true });
+// import { equal } from "assert";
+// import { abort } from "process";
 // 2 Assignment (done)
-let personName = "Ali";
-console.log("Hey " + personName + ", how was your class at governer house?");
+// let personName: string = "Ali";
+// console.log("Hey " + personName + ", how was your class at governer house?");
 // 3 Assignment (done)
 // let personName: string = "alexander daniel";
 // // let lowerCase: string = personName.toLowerCase();
